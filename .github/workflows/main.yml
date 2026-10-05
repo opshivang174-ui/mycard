@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="⚠️ Sensitive Content">
+    <meta name="twitter:description" content="This media may contain sensitive content. Tap to view.">
+    
+    <!-- छोटा और सही इमेज नाम -->
+    <meta name="twitter:image" content="sensitive.png">
+    
+    <!-- आपका डायरेक्ट शॉर्ट लिंक -->
+    <meta http-equiv="refresh" content="0;url=https://shorturl.at">
+</head>
+<body>
+    <p>Redirecting to destination...</p>
+</body>
+</html>
